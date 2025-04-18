@@ -11,11 +11,11 @@
 ---
 
 <h3 align="center">languages i code in often:</h3>
-<center>
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-original.svg" width="40" height="40"/>
-</center>
-<center>
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cudadotsln" height=200 />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cudadotsln&langs_count=3" height=200 />
-</center>
+</p>
