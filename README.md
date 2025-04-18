@@ -16,6 +16,5 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-original.svg" width="100" height="100"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cudadotsln" height=200 />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cudadotsln&langs_count=3" height=200 />
 </p>
